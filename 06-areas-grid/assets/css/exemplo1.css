@@ -1,0 +1,28 @@
+body {
+    display: grid;
+}
+
+.container {
+    background: yellow;
+    display: grid;
+}
+
+header {
+    background-color: orange;
+    grid-area: header;
+}
+
+main {
+    background-color: deepskyblue;
+    grid-area: main;
+}
+
+aside {
+    background-color: lightcoral;
+    grid-area: aside;
+}
+
+footer {
+    background-color: yellowgreen;
+    grid-area: footer;
+}
