@@ -1,0 +1,15 @@
+body {
+    color: white;
+
+    display: grid;
+
+    grid: 100px / auto-flow 100px 50px;
+}
+
+header {
+    background: orange;
+}
+
+footer {
+    background: purple;
+}
