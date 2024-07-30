@@ -1,0 +1,50 @@
+body {
+    display: grid;
+    border: 3px solid;
+    height: 80vh;
+    grid-template: repeat(3, auto) / repeat(3, auto);
+
+    place-items: center;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+}
+
+.item-01 {
+    background: palegoldenrod;
+}
+
+.item-02 {
+    background: paleturquoise;
+}
+
+.item-03{
+    background: palegreen;
+}
+
+.item-04 {
+    background: palevioletred;
+}
+
+.item-05 {
+    background: lightseagreen;
+}
+
+.item-06 {
+ background: darkorchid;
+
+}
+
+.item-07 {
+    background: palegreen;
+
+}
+
+.item-08 {
+    background: palegoldenrod;
+
+}
+
+.item-09 {
+    background: paleturquoise;
+
+}
